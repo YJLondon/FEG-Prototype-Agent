@@ -1,0 +1,16 @@
+{
+  "name": "feg-ux",
+  "owner": {
+    "name": "FEG UX/UI"
+  },
+  "plugins": [
+    {
+      "name": "feg-prototype",
+      "source": "./plugins/feg-prototype",
+      "description": "FEG UX/UI workflows for planning, building and reviewing interactive coded prototypes."
+    }
+  ],
+  "metadata": {
+    "description": "Private Claude Code plugins for the FEG UX/UI team."
+  }
+}

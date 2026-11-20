@@ -1,0 +1,8 @@
+{
+  "name": "feg-prototype",
+  "description": "FEG UX/UI workflows for planning, building and reviewing interactive coded prototypes.",
+  "version": "0.1.0",
+  "author": {
+    "name": "FEG UX/UI"
+  }
+}

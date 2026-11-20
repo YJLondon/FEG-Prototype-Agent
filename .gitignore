@@ -1,0 +1,32 @@
+prototypes/
+.DS_Store
+node_modules/
+
+# Local Claude settings, transcripts and connector credentials
+.claude/
+.claude.json
+.mcp.json
+CLAUDE.local.md
+settings.local.json
+CLAUDE_CONFIG_DIR/
+
+# Tokens, credentials and private keys
+.env
+.env.*
+.envrc
+.npmrc
+.pypirc
+.netrc
+*.pem
+*.key
+*.p12
+*.pfx
+*.kdbx
+id_rsa*
+id_ed25519*
+*credentials*.json
+*service-account*.json
+secrets.*
+secrets/
+.ssh/
+.aws/
